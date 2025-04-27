@@ -17,7 +17,11 @@ Download LLM model from Ollama
 ollama run gemma
 /bye #exit
 ```
+Go to webui for this project
 
+```bash
+localhost:3000
+```
 
 
 
